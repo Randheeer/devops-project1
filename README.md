@@ -1,2 +1,1 @@
-# Devops Project1
-# Update
+# DevOps Practice Project
